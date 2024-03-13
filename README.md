@@ -101,4 +101,4 @@ Customer
 **Exploratory Data Analysis (EDA):** Exploratory data analysis is done to answer the listed questions and aims of this project.
 
 **Conclusion:**
-You can interact with the **SQL QUERY** [HERE](walmartsalesQ)
+You can interact with the **SQL QUERY** [HERE](https://github.com/maudrues/Walmart_sales_data_analysis_SQL/blob/main/walmartsalesQ.sql)
